@@ -194,35 +194,36 @@ This project uses:
 
 ## BOM
 
+
 | Part | Quantity | Unit Price (INR) | Unit Price (USD) | Total (INR) | Total (USD) | Link |
 |---|---:|---:|---:|---:|---:|---|
-| MPU-6050 3-Axis Accelerometer + Gyro | 1 | 151.00 | 1.61 | 151.00 | 1.61 | [Link](https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/) |
-| PS2 Joystick Module Breakout Sensor | 2 | 39.00 | 0.41 | 78.00 | 0.83 | [Link](https://robu.in/product/joystick-module-ps2-breakout-sensor/) |
-| 8520 Magnetic Micro Coreless Motors – 2xCW + 2xCCW pack | 1 | 459.00 | 4.88 | 459.00 | 4.88 | [Link](https://robu.in/product/8520-magnetic-micro-coreless-motor-for-micro-quadcopters-2xcw-2xccw/) |
+| MPU-6050 3-Axis Accelerometer + Gyro | 1 | 151.00 | 1.58 | 151.00 | 1.58 | [Link](https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/) |
+| PS2 Joystick Module Breakout Sensor | 2 | 39.00 | 0.41 | 78.00 | 0.82 | [Link](https://robu.in/product/joystick-module-ps2-breakout-sensor/) |
+| 8520 Magnetic Micro Coreless Motors – 2xCW + 2xCCW pack | 1 | 459.00 | 4.81 | 459.00 | 4.81 | [Link](https://robu.in/product/8520-magnetic-micro-coreless-motor-for-micro-quadcopters-2xcw-2xccw/) |
 | 100kΩ 0603 resistor (MOQ) | 30 | 0.34 | 0.004 | 10.20 | 0.11 | [Link](https://robu.in/product/100k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100/) |
 | 220Ω 0603 resistor (MOQ) | 30 | 0.34 | 0.004 | 10.20 | 0.11 | [Link](https://robu.in/product/220-ohm-chip-resistor-1-4w-0603-surface-mount-pack-of-100/) |
 | 3V Active Electromagnetic Buzzer – pack of 5 | 1 | 21.00 | 0.22 | 21.00 | 0.22 | [Link](https://robu.in/product/3v-active-electromagnetic-buzzer-pack-of-5/) |
 | 1206 Surface Mount LED White (MOQ) | 10 | 1.07 | 0.011 | 10.70 | 0.11 | [Link](https://robu.in/product/1206-surface-mount-led-white-50-pcs/) |
-| 1206 Surface Mount LED Yellow (MOQ) | 25 | 0.40 | 0.004 | 10.00 | 0.11 | [Link](https://robu.in/product/1206-surface-mount-led-yellow-50pcs/) |
+| 1206 Surface Mount LED Yellow (MOQ) | 25 | 0.40 | 0.004 | 10.00 | 0.10 | [Link](https://robu.in/product/1206-surface-mount-led-yellow-50pcs/) |
 | BMP180 Digital Barometric Pressure Sensor Module | 1 | 33.00 | 0.35 | 33.00 | 0.35 | [Link](https://robu.in/product/bmp180-digital-barometric-pressure-sensor-module/) |
-| LWC-2400-DIP-03 (V1.0) Dipole Antenna 2.4 GHz | 2 | 132.00 | 1.40 | 264.00 | 2.81 | [Link](https://robu.in/product/lwc-2400-dip-03-v1-0-dipole-antennas-2-4-ghz/) |
-| Bonka 3.7V 600mAh 25C 1S LiPo | 1 | 499.00 | 5.31 | 499.00 | 5.31 | [Link](https://robu.in/product/bonka-3-7v-600mah-25c-1s-lithium-polymer-battery-pack/) |
+| LWC-2400-DIP-03 (V1.0) Dipole Antenna 2.4 GHz | 2 | 132.00 | 1.38 | 264.00 | 2.76 | [Link](https://robu.in/product/lwc-2400-dip-03-v1-0-dipole-antennas-2-4-ghz/) |
+| Bonka 3.7V 600mAh 25C 1S LiPo | 1 | 499.00 | 5.23 | 499.00 | 5.23 | [Link](https://robu.in/product/bonka-3-7v-600mah-25c-1s-lithium-polymer-battery-pack/) |
 | 22µF 16V 1206 X5R capacitor (MOQ) | 28 | 0.36 | 0.004 | 10.08 | 0.11 | [Link](https://robu.in/product/1206x226k160ct-samsung-smd-multilayer-ceramic-capacitor-22-%c2%b5f-16-v-1206-3216-metric-%c2%b1-10-x5r/) |
-| 100nF 0402 X7R capacitor (MOQ) | 100 | 0.10 | 0.001 | 10.00 | 0.11 | [Link](https://robu.in/product/im02b104k250nb-fh-smd-multilayer-ceramic-capacitor-0-1-%c2%b5f100-nf-25-v-0402-1005-metric-%c2%b1-10 x7r-cl/) |
+| 100nF 0402 X7R capacitor (MOQ) | 100 | 0.10 | 0.001 | 10.00 | 0.10 | [Link](https://robu.in/product/im02b104k250nb-fh-smd-multilayer-ceramic-capacitor-0-1-%c2%b5f100-nf-25-v-0402-1005-metric-%c2%b1-10 x7r-cl/) |
 | 10kΩ 0603 resistor (MOQ) | 15 | 0.68 | 0.007 | 10.20 | 0.11 | [Link](https://robu.in/product/ac0603fr-0710kl-yageo-res-thick-film-0603-10k-ohm-1-0-1w1-10w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/) |
-| ESP32-S3-WROOM-1U-N16R8 | 2 | 469.00 | 4.99 | 938.00 | 9.98 | [Link](https://robu.in/product/espressif-esp32-s3-wroom-1u-n16r8-module/) |
+| ESP32-S3-WROOM-1U-N16R8 | 2 | 469.00 | 4.91 | 938.00 | 9.82 | [Link](https://robu.in/product/espressif-esp32-s3-wroom-1u-n16r8-module/) |
 | 10µF 10V 0805 X5R capacitor (MOQ) | 22 | 0.47 | 0.005 | 10.34 | 0.11 | [Link](https://robu.in/product/cs2012x5r106m100nre-samwha-10v-x5r-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) |
 | SRN8040-1R5Y 1.5µH 7A inductor | 1 | 23.00 | 0.24 | 23.00 | 0.24 | [Link](https://robu.in/product/srn8040-1r5y-bourns-srn8040-1r5y-power-inductor-smd-1-5-%c2%b5h-7-a-shielded-8-2-a-srn8040-series/) |
-| BL5612-BL H-Bridge Motor Driver IC | 4 | 41.00 | 0.44 | 164.00 | 1.74 | [Link](https://robu.in/product/bl5612-blshanghai-belling-h-bridge-motor-driver-ic-1-5a-sop-8/) |
+| BL5612-BL H-Bridge Motor Driver IC | 4 | 41.00 | 0.43 | 164.00 | 1.72 | [Link](https://robu.in/product/bl5612-blshanghai-belling-h-bridge-motor-driver-ic-1-5a-sop-8/) |
 | 560kΩ 0603 resistor (MOQ) | 28 | 0.36 | 0.004 | 10.08 | 0.11 | [Link](https://robu.in/product/erjp03j564v-panasonic-200mw-thick-film-resistors-%c2%b15-%c2%b1200ppm-%e2%84%83-560k%cf%89-0603-chip-resistor-surface-mount-rohs/) |
 | 5.6kΩ 0603 resistor (MOQ) | 28 | 0.37 | 0.004 | 10.36 | 0.11 | [Link](https://robu.in/product/erj3geyj562v-panasonic-100mw-thick-film-resistors-%c2%b15-%c2%b1200ppm-%e2%84%83-5-6k%cf%89-0603-chip-resistor-surface-mount-rohs/) |
-| TYPE-C-31-M-12 Hroparts 5A 1 16P Female Type-C SMD USB Connector | 2 | 26.00 | 0.28 | 52.00 | 0.55 | [Link](https://robu.in/product/type-c-31-m-12-hroparts-5a-1-16p-female-type-c-usb-connectors-rohs/) |
-| JST 2P Male + Female Terminal Connection Socket | 1 | 30.00 | 0.32 | 30.00 | 0.32 | [Link](https://robu.in/product/jst-2p-malefemale-terminal-connection-socket/) |
-| TPS63020DSJR | 2 | 178.00 | 1.89 | 356.00 | 3.79 | [Link](https://robu.in/product/tps63020dsjr-texas-instruments-boost-type-adjustable-1-2v5-5v-1-8v5-5v-vson-14-ep3x4-dc-dc-converters-rohs/) |
-| Drone PCB | 1 | 769.50 | 8.19 | 769.50 | 8.19 | — |
-| Remote PCB | 1 | 760.00 | 8.09 | 760.00 | 8.09 | — |
-| Drone Frame | 1 | 224.20 | 2.39 | 224.20 | 2.39 | — |
-| BAKON BK946S Desoldering Heating Plate | 1 | 5,397.00 | 57.41 | 5,397.00 | 57.41 | [Link](https://quartzcomponents.com/products/bakon-bk946s-desoldering-heating-plate?variant=45718910796010) |
-| **TOTAL** | | | | **10,320.86** | **109.80** | |
+| TYPE-C-31-M-12 Hroparts 5A 1 16P Female Type-C USB Connector | 2 | 26.00 | 0.27 | 52.00 | 0.54 | [Link](https://robu.in/product/type-c-31-m-12-hroparts-5a-1-16p-female-type-c-usb-connectors-rohs/) |
+| JST 2P Male + Female Terminal Connection Socket | 1 | 30.00 | 0.31 | 30.00 | 0.31 | [Link](https://robu.in/product/jst-2p-malefemale-terminal-connection-socket/) |
+| TPS63020DSJR | 2 | 178.00 | 1.86 | 356.00 | 3.73 | [Link](https://robu.in/product/tps63020dsjr-texas-instruments-boost-type-adjustable-1-2v5-5v-1-8v5-5v-vson-14-ep3x4-dc-dc-converters-rohs/) |
+| Drone PCB | 1 | 769.50 | 8.06 | 769.50 | 8.06 | — |
+| Remote PCB | 1 | 760.00 | 7.96 | 760.00 | 7.96 | — |
+| Drone Frame | 1 | 224.20 | 2.35 | 224.20 | 2.35 | — |
+| BAKON BK946 Desoldering Heating Plate | 1 | 6,100.00 | 63.87 | 6,100.00 | 63.87 | [Link](https://www.toolworld.in/index.php/product.php?pid=11584&pn=BK946+Desoldering+Heating+plate) |
+| **TOTAL** | | | | **11,023.86** | **115.43** | |
 
-> i used 94inr = 1$ , also the prices gonna change soon and a hotplate is preferred but you can ignore it if you have a decent hot air station or a hotplate already.
+> i used 95.50 inr = 1$ , also the prices gonna change soon and a hotplate is preferred but you can ignore it if you have a decent hot air station or a hotplate already.
