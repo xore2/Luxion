@@ -224,6 +224,7 @@ This project uses:
 | Remote PCB | 1 | 760.00 | 7.96 | 760.00 | 7.96 | — |
 | Drone Frame | 1 | 224.20 | 2.35 | 224.20 | 2.35 | — |
 | BAKON BK946 Desoldering Heating Plate | 1 | 6,100.00 | 63.87 | 6,100.00 | 63.87 | [Link](https://www.toolworld.in/index.php/product.php?pid=11584&pn=BK946+Desoldering+Heating+plate) |
+Seeed Studio XIAO ESP32-C3                   | 1        | —                | —                | —           | —           | [Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
 | **TOTAL** | | | | **11,023.86** | **115.43** | |
 
 > i used 95.50 inr = 1$ , also the prices gonna change soon and a hotplate is preferred but you can ignore it if you have a decent hot air station or a hotplate already.
